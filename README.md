@@ -20,11 +20,11 @@ Built from scratch in **C++**, it features a custom **Union-Find data structure*
 
 ### 1. The Phase Transition (Visual)
 *(Add your GIF of the simulation here)*
-> *Cyan cells represent the "Giant Component" — water flowing from the virtual top source.*
+> *Orange cells represent the "Giant Component" — water flowing from the virtual top source.*
 
 ### 2. The Math (Experimental Data)
 *(Add your Python Sigmoid Graph here)*
-> *The probability of percolation jumps sharply from 0 to 1 at exactly $p = 0.593$.*
+> *The probability of percolation jumps sharply from 0 to 1 at exactly $p = 0.592746*
 
 ---
 
